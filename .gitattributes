@@ -1,0 +1,8 @@
+*.rs linguist-detectable
+
+*.html linguist-vendored
+src/**/*.rs linguist-detectable
+*.bat text eol=crlf
+*.jpeg binary
+dist/* linguist-vendored
+# eof 7fc61889
